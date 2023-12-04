@@ -4,7 +4,7 @@
   "description": "Thaylon Ramon Ramos Ribeiro",
   "main": "show.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node show.js"
   },
   "keywords": [],
   "author": "",
