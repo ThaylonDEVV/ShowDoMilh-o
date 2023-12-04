@@ -46,3 +46,5 @@ npm start
 
 Isso deve iniciar o jogo conforme configurado no seu script start no arquivo package.json.
 Siga as Instruções dadas anteriormente no jogo.
+
+CREDITOS : https://www.youtube.com/@EdigleyssonSilva
